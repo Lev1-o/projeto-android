@@ -45,9 +45,9 @@ header > h1{
 }
 
 header > p{
-    max-width: 440px;
+    max-width: 500px;
     margin: auto;
-    padding: 0px 20px;
+    padding: 15px 0px;
     font-size: 1em;
     text-align: center;
     color: white;
